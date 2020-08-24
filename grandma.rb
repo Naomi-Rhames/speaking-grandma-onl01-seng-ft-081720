@@ -4,7 +4,7 @@ if phrase != phrase.upcase
 elsif phrase == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
   elsif phrase == 'WHAT DID YOU EAT TODAY?'
-   
+   "NO, NOT SINCE 1938!"
   end
 end
 
